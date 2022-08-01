@@ -1,46 +1,49 @@
-# Microsoft365.com/setup
+# Norton.com/Setup
 
-[![Microsoft365.com/setup](microsoft365setup.png)](https://getactivat.com/office-setup/)
+[![Norton.com/Setup](setup-Norton-getstarted.png)](https://getactivat.com/norton-setup/)
 
-Microsoft Office 365 includes Microsoft Office, SharePoint Online, etc and this app will support most popular browsers today such as Chrome, Firefox, Safari, Microsoft Edge. Download Microsoft Office 365 and install it after checking that your system meets basic Office 365 requirements. Visit [microsoft365.com/setup](https://getactivat.com/office-setup/) and enter the office 365 product key to go to the downloading procedure. 
+Norton is one of the best antivirus program for your PC, Mac®, and mobile devices. It provides Powerful Protection to your devices and all their content and also fight with unwanted infeaction which can harm users computer. User can protect their computer and network by installing it.  Visit [Norton.com/setup](https://getactivat.com/norton-setup/) and enter the Norton product key to go to the downloading procedure. 
 
-## What is the Microsoft Office 365 Product Key?
+## What is the Morton setup Product Key?
 
-An office 365 product key is a 25-character code used to activate and verify your legal purchase. This product key will be available to you after the successful purchase of office 365. You can easily download office 365 from [microsoft365.com/setup](https://getactivat.com/office-setup/) after creating your free office 365 account. You will receive this product key on your registered mail id that you provided at the time of account creation.
+Norton product key is unique code that can help user to install and activate the Norton Antivirus product on their computer. It is a 25-character alphanumeric string that will be available in group of 5 characters. The location of product key is depending on your purchase..
 
-## How to Setup an Office 365 Account?
+## Where do I find my Norton product key?
 
-**_Follow the below steps to setup microsoft office 365 account easily:_**
+**_Follow the below steps to setup Norton account easily:_**
 
-1. Open a web browser and simply visit office365 official website: [microsoft365.com/setup](https://getactivat.com/office-setup/). 
+1. Open a web browser and simply visit Norton official website: [Norton.com/setup](https://getactivat.com/norton-setup/). 
 2. Hit the **“create a new account”** or **“Sign Up”** button. 
 3. If you already have an outlook or skype account, log in with that or simply enter the asked details.
 4. Secure the details with a new and strong password.
-5. To complete the Office 365 account at Microsoft 365/setup, follow instructions and set up the account.
 
-## How do I Download Office 365?
+( 1 ) If Purchase from retail store 
+If user purchased Norton product from local vendor then they will get Norton retail card, in backside of the card they will get the 25 digits Norton activation code.
 
-**_Follow the below steps to download Microsoft 365:_**
+( 2 ) If Purchase online
+If user purchased it online, then they will receive the 25 digits Norton activation code on registred email which they used to complete purchased.
 
-1. Open any of your preferred web browsers and visit [microsoft365.com/setup](https://getactivat.com/office-setup/). 
-2. Tap on the **“Sign In”** tab and log in with your Office 365 account.
-3. If you are new to office365, you need to create an account for it.
-4. Once you Signed in, enter the office365 product key.
-5. Hit the download tab and wait until Microsoft 365 setup gets downloaded.
+## How to Activate Norton Product?
 
-## How to Install Office Setup Application?
+**_In order to Activate Norton Product follow the steps below:_**
+1. Open Web-Browser
+2. Visit Url : [Norton.com/setup](https://getactivat.com/norton-setup/)
+3. Click on sign-in with Norton Account
+4. Then click on Enter a New Product Key
+5. After that Type the product key and click right arrow ">"
+6. Follow the on-screen instructions to activate the product
 
-1. Go to the Downloads folder on your device.  
-2. Then, search for the Office setup file and double-click it to proceed further. 
-3. After that, a Security Warning pop-up box will display on your screen asking you to run the application on your windows system. Hit the **“Run”** button. 
-4. A User Account Control pop-up box will display on your screen. You are required to tap the **“Yes”** button to permit.
-5. This will start the Office installation process. 
-6. Installation might take a few minutes to get completed.
-7. After the successful completion of the download process. Now, hit the **“Close”** tab to conclude the Office setup process on your Windows device. 
+## How to download and install my Norton product?
+In order to download and install Norton Product follow the steps below:
 
-## Activate Office Setup 365 with Product Key
-
-1. Open Microsoft applications on your device. Double-click on its symbol.
-2. Select **"Activate"** option.
-3. Enter Office36 Product Key. Sign in to your Office Account.
-4. Click on Submit and your office will get activated.
+1. Open Web-Browser
+2. Visit Url : Norton.com/setup
+3. Click on sign-in with Norton Account
+4. Then click on Enter a New Product Key
+5. After that Type the product key and click right arrow ">"
+6. Follow the on-screen instructions in order to complete it 
+7. Click on Agree & Download.
+8. Run the setup file which is downloaded
+9. Allow the user account control by click on continue
+10. Follow the on-screen instructions in order to complete it 
+11. Norton is now installed and activated.
